@@ -1,18 +1,14 @@
-# Personal Portfolio Website
+## Portfolio Website
 
-A modern, responsive personal portfolio website built with HTML, CSS, and JavaScript. This portfolio showcases my skills, projects, education, and experience in an interactive and visually appealing way.
+This is my personal portfolio website showcasing my projects, skills, and experience.
 
 ## Features
 
-- 🎨 Modern and responsive design
-- 📱 Mobile-friendly layout
-- 🎯 Interactive flip cards for projects and skills
-- 📊 Dynamic content sections
-- 🔗 Social media integration
-- 📝 Detailed project descriptions
-- 🎓 Education and experience timeline
-- 💼 Skills showcase
-- 📞 Contact information
+- Responsive Design
+- Project Showcase
+- Skills & Experience
+- Contact Information
+- Interactive Elements
 
 ## Technologies Used
 
@@ -21,22 +17,12 @@ A modern, responsive personal portfolio website built with HTML, CSS, and JavaSc
 - JavaScript
 - Bootstrap
 - jQuery
-- Font Awesome Icons
-- Google Fonts
-- Various JavaScript libraries for animations and interactions
 
-## Getting Started
-
-### Prerequisites
-
-- A modern web browser (Chrome, Firefox, Safari, Edge)
-- Node.js and npm (for running the development server)
-
-### Running the Website Locally
+## Installation
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/karangudha/Portfolio_Website.git
+git clone https://github.com/Rahulkr1001/Portfolio_Website.git
 ```
 
 2. Navigate to the project directory:
@@ -44,36 +30,33 @@ git clone https://github.com/karangudha/Portfolio_Website.git
 cd Portfolio_Website
 ```
 
-3. Start the local server:
-```bash
-npx http-server
-```
+3. Open index.html in your browser
 
-4. Open your browser and visit:
-```
-http://localhost:8080
-```
+## Usage
 
-## Project Structure
+Feel free to use this template for your own portfolio, but please give appropriate credit by linking back to this repository.
 
-```
-portfolio/
-├── assets/
-│   ├── css/
-│   ├── js/
-│   ├── vendor/
-│   └── img/
-├── index.html
-├── favicon.png
-└── README.md
-```
+## Customization
+
+1. Update the content in index.html to reflect your personal information
+2. Modify the styling in assets/css/style.css
+3. Replace images in assets/img/ with your own
+4. Update the resume link
+5. Modify contact information
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## Contact
 
-Feel free to reach out to me:
-- Email: karankgudha@gmail.com
-- LinkedIn: [Karan Gudha](https://www.linkedin.com/in/karankgudha/)
-- GitHub: [karangudha](https://github.com/karangudha)
-- Portfolio: [Karan's Portfolio](https://karangudha.github.io/Portfolio_Website/)
+- Email: rahulkrsharma3580@gmail.com
+- LinkedIn: [Rahul](https://www.linkedin.com/in/rahul-361a2a222/)
+- GitHub: [Rahulkr1001](https://github.com/Rahulkr1001)
+- Portfolio: [Rahul's Portfolio](https://rahulkr1001.github.io/Portfolio_Website/)
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 
